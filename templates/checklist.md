@@ -1,0 +1,6 @@
+- [ ] Recon with Nmap
+- [ ] Check open ports & services
+- [ ] Run vulnerability scans
+- [ ] Analyze findings
+- [ ] Document everything
+- [ ] Suggest remediations
