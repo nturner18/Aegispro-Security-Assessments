@@ -33,7 +33,6 @@
 ---
 
 ## **Assessment Goals**  
-```diff
 + [ ] Full system vulnerability scan  
 + [ ] POS-specific hardening  
 + [ ] Compliance audit (PCI, HIPAA, etc.)  
